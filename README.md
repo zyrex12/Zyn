@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! My name is Vynaa Valerie </h2>
+<h2 align="center"> Hi there! My name is Zyns </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7139E&lines=Bot+Developer;JavaScript+Enthusiast;AI+ChatGPT+Specialist;Lifelong+Learner" />
@@ -7,8 +7,8 @@
 ## About me
 * 👩 Pronouns: She/her
 * 🌱 I’m currently learning JavaScript and Bot Development
-* 📫 How to reach me: vynaachan@gmail.com
-* 💗 +6282389924037 
+* 📫 How to reach me: zyn@gmail.com
+* 💗 +6283832091336
 
 ---
 
@@ -30,16 +30,16 @@ I specialize in developing chatbots and AI systems, particularly using ChatGPT a
 
 ### :fire: My Stats! :
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=VynaaValerie&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&currStreakNum=DD2727" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zyrex12&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&currStreakNum=DD2727" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### :bar_chart: My GitHub History :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VynaaValerie&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zyrex12&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynaaValerie&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrex12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
